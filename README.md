@@ -30,20 +30,26 @@ Experience in Automation,Containerization & Orchestration,  Monitoring, and Clou
 
 ###  Projects
 
-##### 🔹 Cloud Monitoring Stack (Prometheus + Grafana)
-##### 🔹 Jenkins CI/CD Pipeline on Kubernetes (AWS-EKS)
-##### 🔹 GitHub Actions workflow automations
-##### 🔹 Python Automation - Selenium, Pandas, OpenPyXL
-##### 🔹 Atlassian Cloud Migration (Support + Data Archival + Customer Communication)
-##### 🔹 Tenrox Cloud Migration (Operations Automation + Data Migration/Archival + Performing UATs)
-##### 🔹 Windows Server Migration (Setup Sandbox Environments + Conducting UATs)
+🔹 Cloud Monitoring Stack (Prometheus + Grafana)
+
+🔹 Jenkins CI/CD Pipeline on Kubernetes (AWS-EKS)
+
+🔹 GitHub Actions workflow automations
+
+🔹 Python Automation - Selenium, Pandas, OpenPyXL
+
+🔹 Atlassian Cloud Migration (Support + Data Archival + Customer Communication)
+
+🔹 Tenrox Cloud Migration (Operations Automation + Data Migration/Archival + Performing UATs)
+
+🔹 Windows Server Migration (Setup Sandbox Environments + Conducting UATs)
+
 ---
 
 ### 📜 Certifications
 
 - ✅ **AWS Solutions Architect – Associate**
 - 🔄 Preparing: Certified Kubernetes Developer (CKA) & Hashicorp Terraform
-
 
 
 
