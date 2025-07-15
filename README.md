@@ -14,7 +14,7 @@
 DevOps Engineer  
 Experience in Automation,Containerization & Orchestration,  Monitoring, and Cloud-native Deployments
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KaustubhLakhan-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kaustubh-lakhan-32987217a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KaustubhLakhan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaustubh-lakhan-32987217a)
 [![GitHub](https://img.shields.io/badge/GitHub-kaustubh-black?style=for-the-badge&logo=github)](https://github.com/kaustubh-lakhan)
 [![AWS Certified](https://img.shields.io/badge/AWS-SAA--C03-blueviolet?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/certification/)
 
