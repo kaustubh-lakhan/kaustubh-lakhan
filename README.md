@@ -49,7 +49,7 @@ Experience in Automation,Containerization & Orchestration,  Monitoring, and Clou
 ### 📜 Certifications
 
 - ✅ **AWS Solutions Architect – Associate**
-- 🔄 Preparing: Certified Kubernetes Developer (CKA) & Hashicorp Terraform
+- 🔄 Preparing: Certified Kubernetes Developer (CKD) & Hashicorp Terraform
 
 
 
