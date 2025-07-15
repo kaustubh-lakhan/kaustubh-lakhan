@@ -9,7 +9,7 @@
 
 <div style="font-family: Poppins, sans-serif;">
 
-#  Kaustubh Lakhan
+###  Kaustubh Lakhan
 
 DevOps Engineer  
 Experience in Automation,Containerization & Orchestration,  Monitoring, and Cloud-native Deployments
@@ -58,7 +58,7 @@ Experience in Automation,Containerization & Orchestration,  Monitoring, and Clou
 > _“Automate everything, scale confidently, monitor relentlessly.”_
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 </p>
 
 </div>
